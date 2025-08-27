@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(sudo dotnet:*)",
+      "Bash(sudo journalctl:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}

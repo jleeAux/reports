@@ -1,0 +1,94 @@
+DAILY DONATIONS REPORT
+Date: 08/06/2025
+========================================================================================================================
+
+Source                              Donor ID   First Name      Last Name            Address                        
+City                 State  Zip/Postal   Email                          Date        Gift Amount   Payment Method  
+------------------------------------------------------------------------------------------------------------------------
+
+000-No Solicitation
+--------------------------------------------------------------------------------
+    70579      Neumann Family   Foundation          128 W Wisconsin Ave Unit 502   
+               Oconomowoc       WI     53066-5234                                  08/06/2025    $5,000.00     Check
+    
+    37743                       WELS                N16W23377 Stone Ridge Dr       
+               Waukesha         WI     53188-1108                                  08/06/2025    $100.00       ACH - EFT
+    
+                                                                                    Total: $5,100.00
+
+906-June Appeal
+--------------------------------------------------------------------------------
+    71924      Bruce            Kaesermann          4077 Cambria Pt                
+               Rhinelander      WI     54501-8357                                  08/06/2025    $150.00       Check
+    
+                                                                                    Total: $150.00
+
+907-July Appeal
+--------------------------------------------------------------------------------
+    13750      Carrie           Schoenwetter        2770 S Amor Dr                 
+               New Berlin       WI     53146-2303                                  08/06/2025    $50.00        Check
+    
+    46867      Steve            Wolfram             323 Emily Ln                   
+               Beaver Dam       WI     53916-1991                                  08/06/2025    $40.00        Check
+    
+    46151      Suzanne          Dorst               491 Highland Ct                
+               Fond Du Lac      WI     54935-4729   suedorst@att.net               08/06/2025    $50.00        Check
+    
+    21194      Virgil           Norder              7400 Bennington Rd             
+               Laingsburg       MI     48848-9628   kanor24@gmail.com              08/06/2025    $50.00        Check
+    
+    51596      Elsa             Manthey             825 E Greenfield Dr Apt 107    
+               Little Chute     WI     54140-1394                                  08/06/2025    $50.00        Check
+    
+    36695      Edward           Parduhn             PO Box 82                      
+               Oakfield         WI     53065-0082                                  08/06/2025    $30.00        Check
+    
+                                                                                    Total: $270.00
+
+932-Ministry Sponsorship
+--------------------------------------------------------------------------------
+    13440      Andrew           George              14064 W Cornell Ave            
+               Lakewood         CO     80228-5301                                  08/06/2025    $25.00        Check
+    
+    25208      Mary             Artz                221 Valley View Dr             
+               Brillion         WI     54110-1419   marykartz@gmail.com            08/06/2025    $25.00        Check
+    
+    4205       William          Peters              333 S 5th St                   
+               Watseka          IL     60970-1632                                  08/06/2025    $125.00       Check
+    
+    31166      Ray              Linnemann           359 Cambridge Dr               
+               Grayslake        IL     60030-3451   rwl359@gmail.com               08/06/2025    $50.00        Check
+    
+    13761      Harold           Arneson             S28W29031 Carmarthen Ct        
+               Waukesha         WI     53188-9508   harneson@wi.rr.com             08/06/2025    $50.00        Check
+    
+    13592      Barbara          Zondag              W144 County Road A             
+               Randolph         WI     53956-9727   bjzondag@yahoo.com             08/06/2025    $25.00        Check
+    
+                                                                                    Total: $300.00
+
+934-Life Tribute
+--------------------------------------------------------------------------------
+    16453      Thomas           Schoen              1239 Chalet Rd Apt 300         
+               Naperville       IL     60563-8904                                  08/06/2025    $150.00       Check
+    
+    25222      Steve            Wasser              1700 Peters Rd                 
+               Kaukauna         WI     54130-2908   tamarawasser21@gmail.com       08/06/2025    $1,000.00     Check
+    
+    10217      Marilyn          Grob                69 White Oak Ct                
+               Winona           MN     55987-6000   mggrob@hbci.com                08/06/2025    $250.00       Check
+    
+                                                                                    Total: $1,400.00
+
+972-Congregation Solicitation
+--------------------------------------------------------------------------------
+    26973      St Matthew       Lutheran Church     308 Herman St                  
+               Iron Ridge       WI     53035-9517   office@stmatthewironridge.com 08/06/2025    $120.00       Check
+    
+                                                                                    Total: $120.00
+
+========================================================================================================================
+                                                                               Grand Total: $7,440.00
+
+Total Donations: 21
+Report Generated: 2025-08-07 20:21:36

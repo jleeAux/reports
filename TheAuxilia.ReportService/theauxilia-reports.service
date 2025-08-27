@@ -1,0 +1,22 @@
+[Unit]
+Description=TheAuxilia Recurring Report Service
+After=network.target mssql-server.service
+
+[Service]
+Type=exec
+User=www-data
+Group=www-data
+WorkingDirectory=/srv/reports/TheAuxilia.ReportService
+ExecStart=/usr/bin/dotnet /srv/reports/TheAuxilia.ReportService/bin/Release/net8.0/TheAuxilia.ReportService.dll
+Restart=on-failure
+RestartSec=10
+Environment=ASPNETCORE_ENVIRONMENT=Production
+Environment=DOTNET_PRINT_TELEMETRY_MESSAGE=false
+
+# Logging
+StandardOutput=journal
+StandardError=journal
+SyslogIdentifier=theauxilia-reports
+
+[Install]
+WantedBy=multi-user.target
