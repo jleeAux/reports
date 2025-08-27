@@ -3,7 +3,9 @@
     "allow": [
       "Bash(sudo dotnet:*)",
       "Bash(sudo journalctl:*)",
-      "Bash(git add:*)"
+      "Bash(git add:*)",
+      "Bash(git push:*)",
+      "Bash(git log:*)"
     ],
     "deny": [],
     "ask": []
