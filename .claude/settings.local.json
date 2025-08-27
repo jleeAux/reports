@@ -5,7 +5,9 @@
       "Bash(sudo journalctl:*)",
       "Bash(git add:*)",
       "Bash(git push:*)",
-      "Bash(git log:*)"
+      "Bash(git log:*)",
+      "Bash(git remote add:*)",
+      "Bash(git commit:*)"
     ],
     "deny": [],
     "ask": []
