@@ -2,7 +2,8 @@
   "permissions": {
     "allow": [
       "Bash(sudo dotnet:*)",
-      "Bash(sudo journalctl:*)"
+      "Bash(sudo journalctl:*)",
+      "Bash(git add:*)"
     ],
     "deny": [],
     "ask": []
